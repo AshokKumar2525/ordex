@@ -19,7 +19,7 @@ A command-line trading bot that places **Market** and **Limit** orders on the **
 ### 1. Clone the repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/AshokKumar2525/ordex.git
 cd ordex
 ```
 
