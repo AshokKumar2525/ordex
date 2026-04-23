@@ -1,0 +1,28 @@
+# Environment & secrets
+.env
+
+# Log files (auto-generated)
+logs/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS artifacts
+Thumbs.db
+.DS_Store
+
+# document
+assessment.pdf
